@@ -1,5 +1,9 @@
 ## Hi there 👋
 
+- 🌱 I am currently inexperienced in programming, but I am actively learning and improving my skills.
+- 📚 I am a high school student with a focus on IT, aspiring to pursue a career in software engineering in the future.
+- 💻 I am currently working on creating my own chess engine as a personal project.
+
 <!--
 **Santinorua/Santinorua** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
